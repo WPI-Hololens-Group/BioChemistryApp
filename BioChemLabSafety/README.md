@@ -1,2 +1,0 @@
-# BioChemLabSafety
-hellow
